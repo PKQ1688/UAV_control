@@ -1,0 +1,5 @@
+gym
+stable-baselines3[extra]
+casadi
+shimmy
+gymnasium
